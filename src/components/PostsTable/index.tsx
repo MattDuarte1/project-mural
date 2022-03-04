@@ -1,4 +1,4 @@
-import { TransactionsItem } from "../TransactionsItem"
+import { TransactionsItem } from "../PostItem"
 import { Container } from "./style"
 import { useContext } from "react"
 import {PostsContext} from '../../PostsContext'
