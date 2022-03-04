@@ -1,6 +1,5 @@
 import { Link } from 'react-router-dom'
 import { Container } from './style'
-import {} from './style'
 
 interface dataProps {
     data: {
